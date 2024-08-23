@@ -11,15 +11,15 @@ This project encompasses detailed analyses of sales and financial data to provid
 
     **2.** Conduct a comparative analysis of _[market performance and sales targets](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_ to evaluate market trends against sales goals.
 
-    **3.** Identify the [top 10 products]() based on the percentage increase in net sales from 2020 to 2021, helping to focus on high-growth items.
+    **3.** Identify the _[top 10 products](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ based on the percentage increase in net sales from 2020 to 2021, helping to focus on high-growth items.
 
-    **4.** Generate a [Division]() report to present net sales data for 2020 and 2021, enabling comparison of division performance and resource allocation.
+    **4.** Generate a _[Division](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_ report to present net sales data for 2020 and 2021, enabling comparison of division performance and resource allocation.
 
-    **5.** Rank the [top 5 and bottom 5 products]() in terms of quantity sold, supporting product portfolio optimization and targeted promotions.
+    **5.** Rank the _[top 5 and bottom 5 products](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Top%205%20and%20bottom%205%20Products%20by%20Qty.pdf)_ in terms of quantity sold, supporting product portfolio optimization and targeted promotions.
 
-    **6.** Determine the [new products]() that Atliq began selling in 2021, evaluating the success of recent launches for future development.
+    **6.** Determine the _[new products](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/New%20Products%20-2021.pdf)_ that Atliq began selling in 2021, evaluating the success of recent launches for future development.
 
-    **7.** Identify the [top 5 countries]() in terms of net sales in 2021, informing regional strategies and potential expansion efforts.
+    **7.** Identify the _[top 5 countries](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Top%205%20Country%20-%202021.pdf)_ in terms of net sales in 2021, informing regional strategies and potential expansion efforts.
 
 - **Purpose of sales analytics:** 
 
@@ -41,7 +41,7 @@ This project encompasses detailed analyses of sales and financial data to provid
 
    **2.** Develop Profit and Loss (P&L) reports categorized by _[Markets](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_ to evaluate market-specific financial outcomes.
 
-   **3.** Generate insights on [GM% by Quarters](), helping to analyze profitability over time.
+   **3.** Generate insights on _[GM% by Quarters](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quarters.pdf)_, helping to analyze profitability over time.
 
 - **Purpose of sales analytics:** 
 
