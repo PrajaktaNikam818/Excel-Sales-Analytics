@@ -11,7 +11,7 @@ This project encompasses detailed analyses of sales and financial data to provid
 
     **2.** Conduct a comparative analysis of _[market performance and sales targets](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_ to evaluate market trends against sales goals.
 
-    **3.** Identify the _[top 10 products](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf+)_ based on the percentage increase in net sales from 2020 to 2021, helping to focus on high-growth items.
+    **3.** Identify the _[top 10 products](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ based on the percentage increase in net sales from 2020 to 2021, helping to focus on high-growth items.
 
     **4.** Generate a _[Division](https://github.com/PrajaktaNikam818/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_ report to present net sales data for 2020 and 2021, enabling comparison of division performance and resource allocation.
 
